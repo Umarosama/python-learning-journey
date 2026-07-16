@@ -164,3 +164,7 @@ Each topic contains:
 
 New topics and projects are added as I continue learning.
 
+
+Copyright (C) 2026 Omar Osama
+
+This project is licensed under the GNU General Public License v3.0. See the LICENSE file for details.
